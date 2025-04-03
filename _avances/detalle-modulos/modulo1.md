@@ -31,12 +31,5 @@ Permitir el registro estructurado y oportuno de solicitudes de transporte por pa
 ### 🔐 Reserva del Servicio  
 - Cada orden queda asociada a un área y solicitante específico.  
 - Acceso controlado por roles y permisos.  
-- Solo personal autorizado puede crear, editar o anular órdenes.  
+- Solo personal autorizado puede crear, editar o anular órdenes. 
 - Historial de cambios para garantizar trazabilidad y seguridad de la información.
-
-
-
-
-
-
-
