@@ -11,9 +11,9 @@
 ## 3. ¿Qué resultado genera su módulo? ¿Es un producto o un servicio? ¿Qué características tiene?
 
  El resultado del módulo es un servicio de transporte y distribución eficiente y confiable. Sus características incluyen:
- - **Puntualidad:**Entregas realizadas en los tiempos acordados.
- - **Calidad:**Mantenimiento de la cadena de frío y condiciones adecuadas durante el transporte para preservar la calidad de los productos.
- - **Cobertura:**Alcance a nivel nacional, permitiendo llegar a diversos mercados y clientes.
+ - **Puntualidad:** Entregas realizadas en los tiempos acordados.
+ - **Calidad:** Mantenimiento de la cadena de frío y condiciones adecuadas durante el transporte para preservar la calidad de los productos.
+ - **Cobertura:** Alcance a nivel nacional, permitiendo llegar a diversos mercados y clientes.
 
 ## 4. ¿Qué recursos se emplean para obtener dicho resultado?
 
@@ -24,8 +24,6 @@
  
  La planificación se realiza mediante:
  - Análisis de demanda
-
- -Programación de rutas
+ - Programación de rutas
+ 
 ## 6. ¿Cómo se reserva el uso / la propiedad del producto o servicio generado?
-
-completar
