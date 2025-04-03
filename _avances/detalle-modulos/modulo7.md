@@ -46,5 +46,3 @@ El servicio de gestión de reclamos y devoluciones es de uso exclusivo para clie
 La empresa establece políticas de devolución y condiciones específicas para aceptar reclamos.  
 
 La información y el historial de casos quedan registrados en el sistema interno de San Fernando, garantizando trazabilidad y confidencialidad.  
-
-Si necesitas más ajustes, dime y lo revisamos.
