@@ -71,3 +71,5 @@ Considere como título el nombre del módulo y coloque el nombre del integrante 
         Caso 2: Reclamo inmediato (ej.: faltante o producto en mal estado):
 
 6. ¿Cómo se reserva el uso / la propiedad del producto o servicio generado?
+
+
