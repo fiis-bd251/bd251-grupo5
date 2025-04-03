@@ -33,3 +33,10 @@ Permitir el registro estructurado y oportuno de solicitudes de transporte por pa
 - Acceso controlado por roles y permisos.  
 - Solo personal autorizado puede crear, editar o anular órdenes.  
 - Historial de cambios para garantizar trazabilidad y seguridad de la información.
+
+
+
+
+
+
+
