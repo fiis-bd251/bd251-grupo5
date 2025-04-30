@@ -1,0 +1,51 @@
+id_reclamo,id_entrega,id_cliente,descripcion,fecha_reclamo,estado,tipo_reclamo
+8e2a2a8d-8838-4593-966f-b6b585d5b104,36444ff1-43e1-4945-8181-20dd9c2049a8,5c8ff230-904f-47e6-bb37-3451e71f805d,Faltaban productos en el pedido,2025-03-31 19:50:19,rechazado,pedido incompleto
+11d6bd5b-8616-4ca6-b98e-c2e021a4706b,36444ff1-43e1-4945-8181-20dd9c2049a8,7702f4d9-1ab9-406b-9817-e31322fde625,Faltaban productos en el pedido,2025-04-11 19:50:19,en pausa,no llegó el producto
+0ae64095-627b-4026-b096-c8961996f296,36444ff1-43e1-4945-8181-20dd9c2049a8,086a12a1-c283-4975-a85d-e9dab3664a23,Falta documento de garantía,2025-01-30 19:50:19,rechazado,producto mal estado
+4f78c0a6-4242-47c4-ac0c-b5b20f563670,09c6b466-bc4a-41e6-bbec-b951743c1685,7ec858e0-5c76-46c9-b51c-c1e95440a4f9,Falta documento de garantía,2025-04-07 19:50:19,rechazado,no llegó el producto
+2e50191e-594e-46c7-b401-ea67ed3e21d7,ccf0e189-6bd4-4fd6-b006-43d1ba2ebcc4,8eba7588-6ec8-418e-a690-158854429db9,Producto dañado durante el transporte,2025-04-02 19:50:19,rechazado,pedido incompleto
+e78af59d-3438-472c-a361-f0c23aa8a9e2,5034a711-5f55-414d-bf8b-3a89ee3353b9,5c8ff230-904f-47e6-bb37-3451e71f805d,Embalaje roto y abierto,2025-04-16 19:50:19,solucionado,pedido incompleto
+0e381522-677d-4097-ac0f-830a3c0ef64c,36444ff1-43e1-4945-8181-20dd9c2049a8,8eba7588-6ec8-418e-a690-158854429db9,Producto en mal estado y sin empaque,2025-02-18 19:50:19,rechazado,producto mal estado
+af70fde1-ffb9-4521-900c-8a6702a94594,5034a711-5f55-414d-bf8b-3a89ee3353b9,71f762be-6226-44cf-b103-08ffe1f7303a,Embalaje roto y abierto,2025-02-04 19:50:19,rechazado,producto mal estado
+874f09cf-51a9-4f5e-ba3c-e7c9071a50fb,a3b62910-273b-4b30-9a3f-25b7f2615951,7d1d199f-739c-4e32-b858-9db4fc233aa8,Producto vencido,2025-04-27 19:50:19,rechazado,producto mal estado
+2f855b41-cf15-41b7-812d-13c11e27d11c,c25805fa-a0f5-4352-919e-2b44834cd24c,086a12a1-c283-4975-a85d-e9dab3664a23,Falta documento de garantía,2025-02-09 19:50:19,solucionado,producto mal estado
+e61b82c2-ceba-4271-adba-a83ec4222b1f,568b386f-d6da-45b9-8037-fe8973d4f45a,7246d86b-9560-4a10-8ea0-8a8d8c28e0de,Producto dañado durante el transporte,2025-04-27 19:50:19,solucionado,no llegó el producto
+376166c5-b4af-4078-ba6b-352016ae3862,5034a711-5f55-414d-bf8b-3a89ee3353b9,7ec858e0-5c76-46c9-b51c-c1e95440a4f9,Falta documento de garantía,2025-03-23 19:50:19,en proceso,pedido incompleto
+b0a35bc8-10b6-4990-be79-19fb7d2cde4e,a3b62910-273b-4b30-9a3f-25b7f2615951,71f762be-6226-44cf-b103-08ffe1f7303a,Recibí otro artículo distinto,2025-03-05 19:50:19,en pausa,pedido incompleto
+c20293b7-2df4-4a89-9403-a4f118159cad,29948e84-fb84-4555-bb0a-223db3bbd425,8eba7588-6ec8-418e-a690-158854429db9,Producto vencido,2025-03-15 19:50:19,rechazado,pedido incompleto
+62056180-250e-4bdc-8b6e-c4bcc4c0ba5c,6c47c362-03ec-4ad4-8807-1006dc6e03cc,086a12a1-c283-4975-a85d-e9dab3664a23,Recibí otro artículo distinto,2025-04-15 19:50:19,rechazado,producto equivocado
+3bf80403-2873-46a2-97e8-0efbebf358ab,7443099e-b9c6-444b-8203-d32e99a97740,8eba7588-6ec8-418e-a690-158854429db9,Falta documento de garantía,2025-03-15 19:50:19,en pausa,no llegó el producto
+0854b86c-b93c-4901-a22d-6672c13300ae,09c6b466-bc4a-41e6-bbec-b951743c1685,26cb9dfe-cb46-4885-9f72-5442be79e022,Recibí otro artículo distinto,2025-03-27 19:50:19,rechazado,pedido incompleto
+6ca7d4ab-df61-4307-b1d5-7a3d5931c4f3,7443099e-b9c6-444b-8203-d32e99a97740,086a12a1-c283-4975-a85d-e9dab3664a23,Embalaje roto y abierto,2025-03-16 19:50:19,rechazado,producto mal estado
+b872a0e9-a4f1-4cff-98d7-8d3e1c729cb7,36444ff1-43e1-4945-8181-20dd9c2049a8,fb4de9b3-3e13-45ad-8d29-2609d84d361f,Falta documento de garantía,2025-03-23 19:50:19,en pausa,producto mal estado
+f3347ab7-f7ef-4e04-9812-628558b54ff4,6c47c362-03ec-4ad4-8807-1006dc6e03cc,7246d86b-9560-4a10-8ea0-8a8d8c28e0de,Embalaje roto y abierto,2025-02-11 19:50:19,en pausa,no llegó el producto
+989527c0-57fa-4356-bf47-4e9aabfcceed,bd051009-b7c2-43db-8109-955de7eb5b5b,cdfe947e-a9ff-4ec1-a8d7-dfa9bbd3a9dc,Producto vencido,2025-04-29 19:50:19,rechazado,producto equivocado
+fcc68428-fe52-4fc0-80a8-857d4b1d8ca8,09c6b466-bc4a-41e6-bbec-b951743c1685,fb4de9b3-3e13-45ad-8d29-2609d84d361f,Producto dañado durante el transporte,2025-02-01 19:50:19,en proceso,producto equivocado
+fe0c98ba-cbd2-4147-813a-46f14f85720e,7443099e-b9c6-444b-8203-d32e99a97740,8eba7588-6ec8-418e-a690-158854429db9,Recibí otro artículo distinto,2025-02-01 19:50:19,solucionado,no llegó el producto
+fd7eea1a-02c7-47df-bc93-ef184366cd81,bc6a399a-7419-4767-af71-4245a57ec702,26cb9dfe-cb46-4885-9f72-5442be79e022,Falta documento de garantía,2025-02-16 19:50:19,en pausa,pedido incompleto
+d3df7086-cb17-426a-bbcc-5b880f115b89,bd051009-b7c2-43db-8109-955de7eb5b5b,5c8ff230-904f-47e6-bb37-3451e71f805d,Embalaje roto y abierto,2025-03-18 19:50:19,en proceso,producto equivocado
+bde45b33-8618-41d1-a7f1-054921ea7367,568b386f-d6da-45b9-8037-fe8973d4f45a,8eba7588-6ec8-418e-a690-158854429db9,Producto en mal estado y sin empaque,2025-02-24 19:50:19,en pausa,no llegó el producto
+0e638ba6-d395-4aa6-83b1-ccace73bcd90,bd051009-b7c2-43db-8109-955de7eb5b5b,8eba7588-6ec8-418e-a690-158854429db9,Falta documento de garantía,2025-03-12 19:50:19,solucionado,no llegó el producto
+f65e73b3-fab4-43aa-b49c-a4bba14b6f87,36444ff1-43e1-4945-8181-20dd9c2049a8,086a12a1-c283-4975-a85d-e9dab3664a23,Producto vencido,2025-02-10 19:50:19,en pausa,no llegó el producto
+7d32fbc2-2847-4d5a-8bbe-64f05f5d85dc,a3b62910-273b-4b30-9a3f-25b7f2615951,5c8ff230-904f-47e6-bb37-3451e71f805d,Producto en mal estado y sin empaque,2025-04-28 19:50:19,solucionado,producto equivocado
+5f312ebd-f3ce-47dd-a8ff-dc15457e82bf,6c47c362-03ec-4ad4-8807-1006dc6e03cc,39329f5e-2cfa-4afc-9895-0d1d5c813d9a,Faltaban productos en el pedido,2025-04-05 19:50:19,solucionado,no llegó el producto
+7b0cdd9f-4473-4e2a-8f9e-60d874f0d09d,c25805fa-a0f5-4352-919e-2b44834cd24c,cdfe947e-a9ff-4ec1-a8d7-dfa9bbd3a9dc,Producto vencido,2025-02-14 19:50:19,en proceso,pedido incompleto
+6457df8b-fc78-4bd0-96f3-a6912f2317cd,ccf0e189-6bd4-4fd6-b006-43d1ba2ebcc4,7d1d199f-739c-4e32-b858-9db4fc233aa8,Falta documento de garantía,2025-04-03 19:50:19,solucionado,producto equivocado
+e4b4c1f4-fae0-4b74-95ae-f64f80768203,29948e84-fb84-4555-bb0a-223db3bbd425,7ec858e0-5c76-46c9-b51c-c1e95440a4f9,Producto dañado durante el transporte,2025-02-24 19:50:19,rechazado,producto equivocado
+deaf0b1d-85c6-4887-9afb-3090d03e865b,7443099e-b9c6-444b-8203-d32e99a97740,7246d86b-9560-4a10-8ea0-8a8d8c28e0de,Producto vencido,2025-03-21 19:50:19,rechazado,pedido incompleto
+bac469a4-1866-43de-a7ee-4a69ecf3e8db,7443099e-b9c6-444b-8203-d32e99a97740,5c8ff230-904f-47e6-bb37-3451e71f805d,Faltaban productos en el pedido,2025-02-01 19:50:19,solucionado,producto mal estado
+c87dcc43-310e-46e4-9825-e9ae8a049401,c25805fa-a0f5-4352-919e-2b44834cd24c,fb4de9b3-3e13-45ad-8d29-2609d84d361f,Recibí otro artículo distinto,2025-02-22 19:50:19,en pausa,producto equivocado
+7ee54b14-6e28-46fa-8295-6c1c38d1f342,5034a711-5f55-414d-bf8b-3a89ee3353b9,7246d86b-9560-4a10-8ea0-8a8d8c28e0de,Embalaje roto y abierto,2025-03-07 19:50:19,en proceso,no llegó el producto
+1caf8abb-ad41-4697-bdb3-d4ca83336a6c,5034a711-5f55-414d-bf8b-3a89ee3353b9,5c8ff230-904f-47e6-bb37-3451e71f805d,Embalaje roto y abierto,2025-04-14 19:50:19,rechazado,no llegó el producto
+8ba85cb5-a244-4fd0-8084-b8c61f52d7c6,36444ff1-43e1-4945-8181-20dd9c2049a8,5c8ff230-904f-47e6-bb37-3451e71f805d,El pedido nunca llegó,2025-04-23 19:50:19,en proceso,no llegó el producto
+c8a2953b-f37a-4a48-bb2a-90e1b7c2bdba,a3b62910-273b-4b30-9a3f-25b7f2615951,7246d86b-9560-4a10-8ea0-8a8d8c28e0de,Recibí otro artículo distinto,2025-02-03 19:50:19,en proceso,pedido incompleto
+2a8ea3a3-1b81-46d2-b5fe-28333e2eb4b6,09c6b466-bc4a-41e6-bbec-b951743c1685,7ec858e0-5c76-46c9-b51c-c1e95440a4f9,Embalaje roto y abierto,2025-04-14 19:50:19,en pausa,producto equivocado
+705a52fd-9946-4bd1-9f6a-af1b7285f7f0,09c6b466-bc4a-41e6-bbec-b951743c1685,39329f5e-2cfa-4afc-9895-0d1d5c813d9a,Producto vencido,2025-02-17 19:50:19,rechazado,no llegó el producto
+6897f982-11f8-45df-9510-c97c0c70bbb5,c25805fa-a0f5-4352-919e-2b44834cd24c,7d1d199f-739c-4e32-b858-9db4fc233aa8,Falta documento de garantía,2025-04-07 19:50:19,en pausa,pedido incompleto
+6b9a916a-baa5-4ca9-9cc4-ddd6e823221c,568b386f-d6da-45b9-8037-fe8973d4f45a,5c8ff230-904f-47e6-bb37-3451e71f805d,Recibí otro artículo distinto,2025-03-08 19:50:19,solucionado,producto mal estado
+5b8f3015-4f63-4b07-a9c3-6b38249b87be,568b386f-d6da-45b9-8037-fe8973d4f45a,7ec858e0-5c76-46c9-b51c-c1e95440a4f9,Producto en mal estado y sin empaque,2025-04-08 19:50:19,solucionado,producto mal estado
+9e5bdd74-b170-4da1-b5e3-cf4735f1fb8e,c25805fa-a0f5-4352-919e-2b44834cd24c,39329f5e-2cfa-4afc-9895-0d1d5c813d9a,Recibí otro artículo distinto,2025-03-03 19:50:19,rechazado,producto equivocado
+daa52fdf-53bc-4abb-8b12-b8fd4041f003,bd051009-b7c2-43db-8109-955de7eb5b5b,086a12a1-c283-4975-a85d-e9dab3664a23,Falta documento de garantía,2025-03-01 19:50:19,en pausa,pedido incompleto
+1cfc95ba-4a7f-4cab-a6f1-9749d5d14c49,36444ff1-43e1-4945-8181-20dd9c2049a8,086a12a1-c283-4975-a85d-e9dab3664a23,El pedido nunca llegó,2025-02-27 19:50:19,en pausa,pedido incompleto
+ebd5e4f9-b283-4d1f-8e20-7c3b72b9b3b5,568b386f-d6da-45b9-8037-fe8973d4f45a,7d1d199f-739c-4e32-b858-9db4fc233aa8,Recibí otro artículo distinto,2025-04-09 19:50:19,solucionado,producto equivocado
+aea2ff9d-25ac-41e7-bcaf-65bded64403b,29948e84-fb84-4555-bb0a-223db3bbd425,8eba7588-6ec8-418e-a690-158854429db9,Producto en mal estado y sin empaque,2025-02-09 19:50:19,solucionado,pedido incompleto
